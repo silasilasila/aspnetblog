@@ -13,7 +13,6 @@
     <form id="form1" runat="server">
     <div class="kutu">
         <div class="slider"></div>
-       
         <div class="govde">
             <div class="govdesol">
                 <div class="govdesolbaslik">MENÜLER</div>
