@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="kullanici.master.cs" Inherits="blogum.kullanici" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Blogum</title>
+    <link href="kullanici.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+     <div class="kutu">
+        <div class="slider"></div>
+        <div class="menu"></div>
+        <div class="govde">
+            <div class="govdesol">
+                <div class="govdesolbaslik"></div>
+                <div class="govdesolicerik"></div>
+
+                </div>
+            <div class="govdesag"></div>
+          
+                </div>
+        <div class="alt"></div>
+    </div>
+    </form>
+</body>
+</html>
